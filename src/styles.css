@@ -1,0 +1,26 @@
+* {
+  background-color: #f2f2f2;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ctnBtn {
+  background-color: #ffba40;
+  color: white;
+  border-radius: 50px;
+  width: 95%;
+  cursor: pointer;
+  border: 2px solid #ffba40;
+  padding: 10px;
+}
+
+.inputBox {
+  width: 89%;
+  border-radius: 50px;
+  border: 2px solid white;
+  background-color: white;
+  padding: 10px;
+  cursor: pointer;
+}
